@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'apps.users.apps.UsersConfig',
     'DjangoUeditor',
-    'users',
+    # 'users',
     'goods',
     'trade',
     'user_operation',
